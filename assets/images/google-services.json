@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "459650716101",
+    "firebase_url": "https://asva-13a91.firebaseio.com",
+    "project_id": "asva-13a91",
+    "storage_bucket": "asva-13a91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459650716101:android:68462bb9be3ec1d95a7bac",
+        "android_client_info": {
+          "package_name": "com.example.asva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459650716101-394vdb9amh7pllfhj9cskrjgth1a1ltl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asva",
+            "certificate_hash": "132a9b547f3b95ae2993d64daca654e0e4ed3da3"
+          }
+        },
+        {
+          "client_id": "459650716101-s7blhtdg08ptcovok0qogldj6jq3irbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzPVon3GQEOjCCteOfoKNhNq-Qw8yfk0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459650716101-s7blhtdg08ptcovok0qogldj6jq3irbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
